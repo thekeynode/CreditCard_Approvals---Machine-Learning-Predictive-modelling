@@ -1,4 +1,4 @@
-# CCredit Card Approvals Analysis
+# Credit Card Approvals Analysis
 
 Welcome to the repository for the Credit Card Approvals Analysis. This project is designed to delve into credit card application data, applying data preprocessing techniques, visualization, and machine learning models to understand and predict approval outcomes.
 
